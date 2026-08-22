@@ -1,22 +1,22 @@
 {
   "username": "Joaofreitas18",
-  "generated_at": "2026-08-21T07:07:12Z",
+  "generated_at": "2026-08-22T06:58:52Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-22"
+  },
+  "total_contributions": 48,
+  "active_days": 20,
+  "avg_per_active_day": 2.4,
+  "current_streak": {
+    "length": 5,
+    "start": "2026-08-17",
     "end": "2026-08-21"
   },
-  "total_contributions": 47,
-  "active_days": 19,
-  "avg_per_active_day": 2.5,
-  "current_streak": {
-    "length": 4,
-    "start": "2026-08-17",
-    "end": "2026-08-20"
-  },
   "longest_streak": {
-    "length": 4,
-    "start": "2026-02-03",
-    "end": "2026-02-06"
+    "length": 5,
+    "start": "2026-08-17",
+    "end": "2026-08-21"
   },
   "best_day": {
     "date": "2026-08-17",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 10
+      "total": 11
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-08-21",
+      "count": 1
+    },
+    {
+      "date": "2026-08-22",
       "count": 0
     }
   ]
